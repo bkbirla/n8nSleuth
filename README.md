@@ -142,4 +142,4 @@ n8nSleuth/
 
 ## License
 
-MIT
+[MIT](LICENSE.md)
