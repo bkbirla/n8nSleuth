@@ -142,4 +142,4 @@ n8nSleuth/
 
 ## License
 
-See repository defaults. If no license file is present, contact the repository owner for usage terms.
+MIT
