@@ -1,0 +1,5 @@
+.env
+.venv/
+security_report.json
+security_report.html
+workflows.json
